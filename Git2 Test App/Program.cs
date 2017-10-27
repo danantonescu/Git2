@@ -8,7 +8,7 @@ namespace Git2_Test_App
         {
             Console.WriteLine("Git2 Test App v0.0.00.001");
 
-            Console.WriteLine("master .01");
+            Console.WriteLine("master .02");
 
             Console.WriteLine(new FeatureA().Version);
             Console.WriteLine(new FeatureB().Version);
