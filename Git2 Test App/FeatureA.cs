@@ -11,7 +11,7 @@ namespace Git2_Test_App
 
         public FeatureA()
         {
-            _version = "a.00";
+            _version = "a.08";
         }
     }
 }
